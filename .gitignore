@@ -128,6 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Exclude data folders
+/Homework/Unit3/data
+
+# Exclude ds_store files
+.DS_Store
+
 # Exclude specific large csv files
 taxi.csv
 taxi_out.csv
