@@ -31,7 +31,9 @@ This is a jupyter notebook where I experimented with functions and code that wer
 # Other FIles
 
 **cards.csv**
-This is the primary source of cards data for the project. As the file is 55mb I am not sure if github will accept this when I push it up. It can be downloaded from the following link if needed:
+This is the primary source of cards data for the project. As the file is 55mb I am not sure if github will accept this when I push it up. I have zipped it so it can be uploaded to GitHub since it exceeds the 50mb recommended file size.
+
+It can be downloaded from the following link if needed:
 
 https://mtgjson.com/api/v5/AllPrintingsCSVFiles.zip
 
